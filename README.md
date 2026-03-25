@@ -36,6 +36,17 @@ Soy un desarrollador apasionado por el **Backend** y la **Ingeniería de Datos**
 
 ---
 
+### 🚀 Proyecto Destacado
+**[UserCore-JDBC](https://github.com/AguileraMesa91/UserCore-JDBC)**
+> Implementación de un sistema de gestión de usuarios utilizando **Java** y **JDBC** puro. Este proyecto demuestra mi manejo de la persistencia de datos, conectividad SQL y estructuración de lógica de negocio sin frameworks.
+
+---
+
+### 📩 Contacto
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aguilera.mesa.f.j@gmail.com)
+
+---
+
 ### 📊 Mis Estadísticas de GitHub
 ![Stats de AguileraMesa91](https://github-readme-stats.vercel.app/api?username=AguileraMesa91&show_icons=true&theme=tokyonight&hide_border=true)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AguileraMesa91&layout=compact&theme=tokyonight&hide_border=true)
